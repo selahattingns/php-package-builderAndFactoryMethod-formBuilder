@@ -1,0 +1,7 @@
+{
+  "autoload": {
+    "psr-4": {
+      "SelahattinGns\\PhpPackageBuilderPatternFormBuilder\\": "./packages/php-package-builderPattern-formBuilder/src"
+    }
+  }
+}
