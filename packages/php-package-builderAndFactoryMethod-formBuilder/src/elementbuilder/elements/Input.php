@@ -1,7 +1,7 @@
 <?php
-namespace SelahattinGns\PhpPackageBuilderPatternFormBuilder\ElementBuilder\Elements;
+namespace SelahattinGns\PhpPackageBuilderAndFactoryMethodFormBuilder\ElementBuilder\Elements;
 
-use SelahattinGns\PhpPackageBuilderPatternFormBuilder\ElementBuilder\Element;
+use SelahattinGns\PhpPackageBuilderAndFactoryMethodFormBuilder\ElementBuilder\Element;
 
 class Input extends Element {
 

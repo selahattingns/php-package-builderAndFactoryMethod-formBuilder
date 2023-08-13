@@ -1,6 +1,6 @@
 {
-  "name": "selahattingns/php-package-builderPattern-formBuilder",
-  "description": "Writing a php package using the builder method.",
+  "name": "selahattingns/php-package-builderAndFactoryMethod-formBuilder",
+  "description": "Writing a php package using the builder and factory method.",
   "license": "MIT",
   "authors": [
     {
@@ -10,7 +10,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "SelahattinGns\\PhpPackageBuilderPatternFormBuilder\\": "src/"
+      "SelahattinGns\\PhpPackageBuilderAndFactoryMethodFormBuilder\\": "src/"
     }
   },
   "minimum-stability": "dev",

@@ -1,7 +1,7 @@
 <?php
-namespace SelahattinGns\PhpPackageBuilderPatternFormBuilder;
+namespace SelahattinGns\PhpPackageBuilderAndFactoryMethodFormBuilder;
 
-use SelahattinGns\PhpPackageBuilderPatternFormBuilder\ElementBuilder\Element;
+use SelahattinGns\PhpPackageBuilderAndFactoryMethodFormBuilder\ElementBuilder\Element;
 
 class Form {
     /**

@@ -1,9 +1,9 @@
 <?php
-namespace SelahattinGns\PhpPackageBuilderPatternFormBuilder;
+namespace SelahattinGns\PhpPackageBuilderAndFactoryMethodFormBuilder;
 
-use SelahattinGns\PhpPackageBuilderPatternFormBuilder\ElementBuilder\Elements\Button;
-use SelahattinGns\PhpPackageBuilderPatternFormBuilder\ElementBuilder\Elements\Textarea;
-use SelahattinGns\PhpPackageBuilderPatternFormBuilder\ElementBuilder\Elements\Input;
+use SelahattinGns\PhpPackageBuilderAndFactoryMethodFormBuilder\ElementBuilder\Elements\Button;
+use SelahattinGns\PhpPackageBuilderAndFactoryMethodFormBuilder\ElementBuilder\Elements\Textarea;
+use SelahattinGns\PhpPackageBuilderAndFactoryMethodFormBuilder\ElementBuilder\Elements\Input;
 
 class FormBuilder{
 

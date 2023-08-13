@@ -1,5 +1,5 @@
 <?php
-namespace SelahattinGns\PhpPackageBuilderPatternFormBuilder\ElementBuilder;
+namespace SelahattinGns\PhpPackageBuilderAndFactoryMethodFormBuilder\ElementBuilder;
 
 class Element {
     protected $tagName = "div";

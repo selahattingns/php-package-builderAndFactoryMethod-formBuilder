@@ -1,7 +1,7 @@
 <?php
 require 'vendor/autoload.php';
 
-$formBuilder = new SelahattinGns\PhpPackageBuilderPatternFormBuilder\FormBuilder();
+$formBuilder = new SelahattinGns\PhpPackageBuilderAndFactoryMethodFormBuilder\FormBuilder();
 $formBuilder->createForm("userForm");
 $formBuilder->addInput('first name',[ "class" => "form-control" ]);
 $formBuilder->addInput('last name',[ "class" => "form-control" ]);
