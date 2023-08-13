@@ -1,6 +1,6 @@
 {
   "name": "selahattingns/php-package-builderPattern-formBuilder",
-  "description": "Writing a php package using the abstract factory method.",
+  "description": "Writing a php package using the builder method.",
   "license": "MIT",
   "authors": [
     {
